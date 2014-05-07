@@ -6,7 +6,7 @@ Todos.Todo = DS.Model.extend({
 Todos.Todo.FIXTURES = [
 {
 	id: 1,
-	title: 'Stay weird',
+	title: 'Keep weird',
 	isCompleted: true
 },
 {
